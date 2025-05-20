@@ -444,29 +444,6 @@ Response:
 }
 ```
 
-## Deployment
-
-The API can be deployed to free platforms like:
-
-### 1. Render
-
-1. Create an account at [render.com](https://render.com/)
-2. Create a new Web Service
-3. Connect your GitHub repo
-4. Set the build command: `npm install`
-5. Set the start command: `npm start`
-6. Add your environment variables in the dashboard
-7. Deploy!
-
-### 2. Railway
-
-1. Sign up at [railway.app](https://railway.app/)
-2. Create a new project
-3. Add a MongoDB database
-4. Deploy your GitHub repository
-5. Add your environment variables
-6. Deploy!
-
 ## License
 
 This project is licensed under the MIT License.
