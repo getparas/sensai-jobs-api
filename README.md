@@ -1,6 +1,6 @@
 # Jobs API
 
-A RESTful API for job listings, built with Node.js, Express, and MongoDB. This API is designed for the Sensai career coach platform where jobs are recommended using specific algorithms.
+A RESTful API for job listings, built with Node.js, Express, and MongoDB.
 
 ## Features
 
@@ -33,8 +33,8 @@ A RESTful API for job listings, built with Node.js, Express, and MongoDB. This A
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/jobs-api.git
-   cd jobs-api
+   git clone https://github.com/getparas/sensai-jobs-api
+   cd sensai-jobs-api
    ```
 
 2. Install dependencies:
